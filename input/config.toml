@@ -1,0 +1,7 @@
+[ data ]
+password = "GenBySexfrance@2024" # "" = Random
+
+[ dev ]
+Proxyless = true
+Debug = false
+Threads = 3
