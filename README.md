@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">Zenix Account Creator</h2>
   <p align="center">
-    An automated tool for creating [Zenix accounts](https://zenix.vast.sh) with Turnstile captcha solver, proxy handling, and multi-threading capabilities.
+    An automated tool for creating Zenix accounts (https://zenix.vast.sh) with Turnstile captcha solver, proxy handling, and multi-threading capabilities.
     <br />
     <br />
     <a href="https://discord.cyberious.xyz">💬 Discord</a>
